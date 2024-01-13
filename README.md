@@ -53,11 +53,9 @@ This is a Mail Client project that uses Socket to connect and exchange data with
 - Contains information about the progress and details of the completed functions.
 - https://studenthcmusedu-my.sharepoint.com/:w:/g/personal/22120339_student_hcmus_edu_vn/EVdmRFVi0xtHmIm36RZ2kkgB1C_O-JUHguhNJ4zuFXYuzg?e=e8Bger
 
-## Co-Author
+## Author
 
 - Name: Nguyen Quang Thang
-- Name: Nguyen Thi Anh Thi
-- Name: Truong Tam Thanh
 
 ## License
 
